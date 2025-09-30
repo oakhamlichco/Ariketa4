@@ -1,0 +1,1 @@
+En este ebook se analizan los aspectos fundamentales que se deben tener en cuenta sobre los riesgos relacionados con el cumplimiento normativo y los puntos vulnerables de seguridad en los entornos de Linux, y se proporcionan algunas pautas al respecto.
